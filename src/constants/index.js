@@ -3,7 +3,7 @@ import LoginPage from '../containers/LoginPage';
 import TaskBoard from '../containers/TaskBoard';
 import SignUpPage from '../containers/SignUpPage';
 
-export const API_ENDPOINT = 'http://localhost:3000';
+export const API_ENDPOINT = 'https://628e311ca339dfef87a95625.mockapi.io/';
 
 export const STATUSES = [
     {
